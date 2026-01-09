@@ -1,0 +1,7 @@
+{
+  "name": "Cinematic Dolly Creator",
+  "description": "Transform static interior photos into cinematic 9:16 dolly-in videos. Perfect for luxury real estate and interior design showcases.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
